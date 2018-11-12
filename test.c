@@ -1,10 +1,9 @@
 /**
- * @Author: Pierre Langlois <perzi>
+ * @Author: Pierre Lgs
  * @Date:   31-10-2018
  * @Email:  pierre.langlois@synlab.fr
- * @Project: cards
  * @Filename: test.c
- * @Last modified by:   perzi
+ * @Last modified by:   PierreLgs
  * @Last modified time: 12-11-2018
 */
 
